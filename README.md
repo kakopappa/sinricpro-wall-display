@@ -7,3 +7,4 @@ Using WT32 SC01 PLUS.
 TODO:
 1. Call the API to control the devices
 2. Display time.
+3. Display outside temp.
